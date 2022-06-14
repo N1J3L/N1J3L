@@ -1,4 +1,4 @@
--let squares 
+let squares 
 images = []
 i = 0
 
